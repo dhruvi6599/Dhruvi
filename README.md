@@ -48,8 +48,8 @@ help in the identification of patient at-risk, the prognosis of disease severity
 likelihood of progression, as well as the choice of treatment.  
 - Technologies used: Python and Machine Learning Algorithms.
 
-### 🔧 [IDS Dataset]()
-- A brief description of your project.  
+### 🔧 [IDS Dataset](https://github.com/dhruvi6599/IDS-dataset.git)
+- This Project showcases a  analysis of the IDS 2018 Intrusion CSVs (CSE-CIC-IDS2018)dataset, employing logistic regression for binary classification with promising performance and highlighting the importance of rigorous data preprocessing and model evaluation.
 - Technologies used: Python, Machine Learning, etc.
 
 ---
@@ -59,15 +59,14 @@ likelihood of progression, as well as the choice of treatment.
 Here are a few fun visuals to showcase my creativity! 😊
 
 
-![Coding Meme](https://media.giphy.com/media/3oEjI2rYwiNcLVmbO4/giphy.gif)
+![Coding Meme](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 
 ---
 
 ## 📬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/dhruvi-vekariya-749b22159/)
+- [Email](mailto:dhruvibavisiya12@gmail.com)
 
 Feel free to reach out if you'd like to collaborate or chat!
 
