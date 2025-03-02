@@ -35,7 +35,11 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvi6599&show_icons=true&locale=en&layout=compact" alt="dhruvi6599" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvi6599&show_icons=true&locale=en" alt="dhruvi6599" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvi6599&" alt="dhruvi6599" /></p>
 
 ---
 
