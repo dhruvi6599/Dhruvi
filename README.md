@@ -41,13 +41,16 @@ Welcome to my GitHub profile! I'm passionate about coding and technology. Here's
 
 ## 🎯 Projects & Achievements
 
-### 🚀 [CKD_Prediction]()
-- A brief description of your project.  
-- Technologies used: Python, MySQL, etc.
+### 🚀 [CKD_Prediction](https://github.com/dhruvi6599/CKD_Prediction.git)
+- This project discusses the possibility of improving the CKD’s (Chronic Kidney Dieases) management through the help
+of predictive analytics. The use of the machine learning approach and data analysis methods will
+help in the identification of patient at-risk, the prognosis of disease severity outcomes or
+likelihood of progression, as well as the choice of treatment.  
+- Technologies used: Python and Machine Learning Algorithms.
 
-### 🔧 [Project 2 Name](link-to-project)
+### 🔧 [IDS Dataset]()
 - A brief description of your project.  
-- Technologies used: Hadoop, Machine Learning, etc.
+- Technologies used: Python, Machine Learning, etc.
 
 ---
 
